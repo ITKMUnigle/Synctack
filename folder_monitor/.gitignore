@@ -1,0 +1,33 @@
+# Python编译缓存
+__pycache__/
+*.pyc
+
+# 项目文档
+/docs/
+
+# 跨系统同步断点文件
+.sync_breakpoints/
+
+# 日志文件
+*.log
+
+# 临时配置文件
+*.tmp
+
+# 平台特定配置文件
+linux_config.ini
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# Python环境文件
+venv/
+env/
+*.egg-info/
